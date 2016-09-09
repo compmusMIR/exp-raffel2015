@@ -12,3 +12,5 @@ mkdir ../results
 touch ../results/text_matches.js
 
 $PYTHON text_match_datasets.py
+
+$PYTHON create_msd_cqts.py
