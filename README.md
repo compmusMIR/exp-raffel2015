@@ -7,6 +7,10 @@ Raffel and Daniel P. W. Ellis.
 
 The original article is available at http://colinraffel.com/#publications
 
+# Results
+
+Our results can be seen in [results.ipynb](results.ipynb)
+
 # Setup
 The setup.sh is a script to setup the environment in a clean Ubuntu 16.04 machine
 Running it should download the author source-code, databases and system
